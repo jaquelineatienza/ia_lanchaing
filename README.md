@@ -1,7 +1,7 @@
-"# ia_lanchaing"
+# Investiga otras bases de datos vectoriales compatibles con Langchain y considera sus ventajas y desventajas para diferentes casos de uso.
 ![alt text](image.png)
 
-//concluciones
+# concluciones
 
 Se probaron dos tipos de bases vectoriales en el archivo de investigacion se uso FASS junto con ollama.3 el resultado obtenido es que al ser un modelo local son mucho mas lentas las respuestas llegando a tardar mas de media hora
 
